@@ -13,7 +13,6 @@ public class Main {
 	protected static FenetreListeAbsents fenetreListeAbsents;
 	
 	
-	
 	/**
 	 * Lancement de l'application
 	 */
